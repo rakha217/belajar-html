@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!doctype html>
 <html lang="en">
   <head>
@@ -131,3 +132,8 @@
     </footer>
   </body>
 </html>
+=======
+//helow.js
+const namma = Process.argv[2] || "Tamu";
+console.log('Halo, ${Nama}');
+>>>>>>> 5da9bd51ce1e6c366782073364a0e9b1a7a343d1
